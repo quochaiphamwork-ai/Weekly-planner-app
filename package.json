@@ -1,5 +1,6 @@
 {
   "name": "weekly-planner-app",
+  "description": "A desktop weekly planner widget built with React, FullCalendar, Vite, and Electron.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
